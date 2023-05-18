@@ -11,9 +11,10 @@ librarry: pyrogram
 - After creating the application, you will see the api_id and api_hash values on the page. The api_id will be an integer (e.g., 1234567), and the api_hash will be a string (e.g., 'deadbeef1337600613').
 - Replace the placeholders in dell_all_my_message.py file with the obtained api_id and api_hash values:
 - 
-`api_id = 1234567  # Your api_id in int format
-
-api_hash = 'deadbeef1337600613'  # Your api_hash in str format`
+```
+api_id = 1234567  # Your api_id in int format
+api_hash = 'deadbeef1337600613'  # Your api_hash in str format
+```
 
 **2. Run a code**
 
