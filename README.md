@@ -1,5 +1,5 @@
 # del_all_message-telegram
-delete all messages from me in specific group
+delete all my messages in specific group
 
 1. You need to get your api_id and api_hash for Telegram, you need to follow these steps:
 
