@@ -1,7 +1,9 @@
 # del_all_message-telegram
-delete all my messages in specific group
+**delete all my messages in specific group**
 
-1. You need to get your api_id and api_hash for Telegram, you need to follow these steps:
+librarry: pyrogram
+
+**1. You need to get your api_id and api_hash for Telegram, you need to follow these steps:**
 
     Go to the website https://my.telegram.org/ and log in using your Telegram account.
 
@@ -16,7 +18,8 @@ Replace the placeholders in dell_all_my_message.py file with the obtained api_id
 api_id = 1234567  # Your api_id in int format
 api_hash = 'deadbeef1337600613'  # Your api_hash in str format
 
-2. Run a code
-python3 dell_all_my_message.py
+**2. Run a code**
+
+`python3 dell_all_my_message.py`
 
 You're welcome!
