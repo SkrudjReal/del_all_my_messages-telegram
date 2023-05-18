@@ -12,6 +12,7 @@ librarry: pyrogram
 - Replace the placeholders in dell_all_my_message.py file with the obtained api_id and api_hash values:
 - 
 `api_id = 1234567  # Your api_id in int format
+
 api_hash = 'deadbeef1337600613'  # Your api_hash in str format`
 
 **2. Run a code**
