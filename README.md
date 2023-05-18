@@ -1,4 +1,4 @@
-# del_all_message-telegram
+# del_all_my_messages-telegram
 **delete all my messages in specific group**
 
 librarry: pyrogram
